@@ -19,22 +19,16 @@
       "modelo": "modelo3"
     },
     {
-      "conteudo": "Teste",
-      "autoria": "teste",
-      "modelo": "modelo1",
-      "id": 4
-    },
-    {
-      "conteudo": "Novo Teste",
-      "autoria": "eu",
-      "modelo": "modelo3",
-      "id": 5
-    },
-    {
       "conteudo": "teste de rota",
       "autoria": "eu",
       "modelo": "modelo3",
       "id": 6
+    },
+    {
+      "conteudo": "vai dar certo",
+      "autoria": "eu",
+      "modelo": "modelo2",
+      "id": 7
     }
   ]
 }
